@@ -1,4 +1,4 @@
-package thread.consumer.src;
+package thread.consumer1;
 import java.util.LinkedList;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
