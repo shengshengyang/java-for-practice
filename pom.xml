@@ -19,6 +19,7 @@
 
     <modules>
         <module>dean-demo-design-factory</module>
+        <module>dean-demo-design-abstract-factory</module>
     </modules>
 
     <dependencies>
